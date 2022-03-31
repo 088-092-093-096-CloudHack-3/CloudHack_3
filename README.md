@@ -1,5 +1,12 @@
 # Problem Statement 3 - Breaking down monoliths 🪨⛏️
 
+This project has been done by following members:
+1)Arul Ubbot - PES1UG19CS088
+2)Aryan Kumar Jha - PES1UG19CS092
+3)Aryan Raj Chhetri - PES1UG19CS093
+4)Avanish V Patil - PES1UG19CS096
+
+
 This problem statement has two objectives:
 - Get familiar with reading error stack trace and debugging code.
 - Convert a monolith architecture based docker-compose application into a microservices based architecture.  
